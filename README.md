@@ -10,6 +10,7 @@ PumpFun Bot is an all-in-one cryptocurrency monitoring and trading bot. It monit
 - **Telegram Integration**: Send alerts and receive trading commands via a Telegram bot.
 - **Database Storage**: Store token and transaction data using SQLite.
 - **Trading Analysis**: Identify suspicious transaction patterns using DBSCAN.
+- **Multi-Platform Support**: Compatible with different platforms, including Golang and Rust.
 
 ## Installation
 
@@ -68,6 +69,8 @@ pip install requests web3 python-telegram-bot==20.* pandas sqlalchemy textblob s
     ```bash
     python pumpfun_trading_robot.py
     ```
+
+
 
 ## Contributing
 
