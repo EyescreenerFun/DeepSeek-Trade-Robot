@@ -1,0 +1,18 @@
+node_modules
+dist
+
+# Rust
+target
+
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.py
+*.pyw
+*.pyx
+*.pyz
+
+.DS_Store
+
