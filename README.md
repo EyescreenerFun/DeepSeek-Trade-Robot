@@ -1,6 +1,26 @@
-# PumpFun Bot
+# DeepSeek Trade Robot
 
-PumpFun Bot is an all-in-one cryptocurrency monitoring and trading bot. It monitors the latest tokens migrated from the PumpFun API, performs security checks, conducts basic sentiment analysis, and integrates with a Telegram bot for alerts and (optional) trading commands.
+<p>
+<a href="https://eyescreenerfun.gitbook.io/eyescreenerfun"><img src="https://img.shields.io/badge/📖 docs-dca282.svg" /></a> &nbsp;
+<a href="https://github.com/EyescreenerFun/DeepSeek-Trade-Robot"><img src="https://img.shields.io/github/stars/EyescreenerFun/DeepSeek-Trade-Robot?style=social" alt="stars - eye" /></a>
+<a href="https://twitter.com/eyescreenerfun"><img src="https://img.shields.io/twitter/follow/eyescreenerfun"></a> &nbsp
+<br>
+<br>
+</p>
+
+<div align="center">
+
+[📑 Docs](https://eyescreenerfun.gitbook.io/eyescreenerfun)
+<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+[🌐 Website](https://eyescreener.fun)
+<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+[🤝 Contribute](https://github.com/EyescreenerFun/DeepSeek-Trade-Robot/issues/new)
+<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+[✍🏽 Blogs](https://eyescreenerfun.gitbook.io/eyescreenerfun)
+
+</div>
+
+DeepSeek Trade Robot is an all-in-one cryptocurrency monitoring and trading bot. It monitors the latest tokens migrated from the PumpFun API, performs security checks, conducts basic sentiment analysis, and integrates with a Telegram bot for alerts and (optional) trading commands.
 
 ## Features
 

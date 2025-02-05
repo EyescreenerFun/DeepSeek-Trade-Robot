@@ -1,0 +1,13 @@
+[workspace]
+resolver = "2"
+members = [
+    "eye-core",
+    "eye-lancedb",
+    "eye-mongodb",
+    "eye-neo4j",
+    "eye-postgres",
+    "eye-qdrant",
+    "eye-core/eye-core-derive",
+    "eye-sqlite",
+    "eye-eternalai",
+]
